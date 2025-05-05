@@ -40,6 +40,10 @@ pip install -r requirements.txt
 
 3. To stop teleoperation, press `s` button. You will see all other instructions in your console.
 
+### Hardware & Assembly Tutorial
+
+Echo is easy to put together with our [Hardware & Assembly Tutorial](https://eterwait.github.io/Prometheus/Hardware) videos and guide. Check it out to get started!
+
 ### Citation
 
 ```
