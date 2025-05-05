@@ -5,6 +5,12 @@ Feel free to visit our [website](https://eterwait.github.io/Prometheus/) for mor
 
 ### Repository content
 
+- **Prometheus** - main code.
+- **Hardware** - 3D models and electronic components.
+- **STM32 code** - STM32 CubeIDE project files.
+- **Prometheus.bin** - ready-to-use microcontroller firmware. Download [Cube Programmer](https://www.st.com/en/development-tools/stm32cubeprog.html) and use it to upload the firmware to the board.
+- **Prometheus.hex** - ready-to-use microcontroller firmware.
+
 ### Citation
 
 ```
