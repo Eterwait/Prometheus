@@ -1,0 +1,8 @@
+pyserial==3.5
+pose_openvr_wrapper==0.3.12
+ur-rtde==1.5.9
+keyboard==0.13.5
+DateTime==5.5
+scipy==1.14.1
+pyrr==0.10.3
+vive-tracker-apiserver==0.0.7

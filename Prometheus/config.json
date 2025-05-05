@@ -1,0 +1,14 @@
+{
+    "devices":[
+        {
+          "name": "tracker_0",
+          "type": "tracker",
+          "serial":"LHR-B6119ABB"
+        },
+        {
+          "name": "hmd_1", 
+          "type": "hmd",
+          "serial": "LHR-E323E68E"
+      }
+    ]
+  }
