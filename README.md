@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 ### Usage
 
-1. Run `teleop_ur.py` file, pay attention to possible error messages that will be printed in console.
+1. Run `teleop_ur.py` file, pay attention to possible error messages that will be printed in the console.
 
 2. If all starts successfully, robot will follow your tracker.
 
