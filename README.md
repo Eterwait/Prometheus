@@ -1,6 +1,12 @@
 ## Welcome to Prometheus!
 This repository contains source materials for Prometheus, an open-source teleoperation system with force feedback.
 
+### Repository content
+
+- **teleoperation** - main code.
+- **force_sensor_linearizer_rs485** - force sensor PCB code
+- **mocap_teleop_pcb** - joystick PCB code
+
 ### Installation
 
 1. Clone this repo on your PC. 
