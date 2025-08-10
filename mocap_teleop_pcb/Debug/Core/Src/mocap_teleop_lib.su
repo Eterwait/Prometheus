@@ -1,0 +1,13 @@
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_tim.h:2134:22:LL_TIM_OC_SetCompareCH2	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:1803:26:LL_USART_IsActiveFlag_TC	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:1814:26:LL_USART_IsActiveFlag_TXE	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:1968:22:LL_USART_ClearFlag_TC	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:2426:22:LL_USART_TransmitData8	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:881:22:LL_GPIO_SetOutputPin	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:910:22:LL_GPIO_ResetOutputPin	16	static
+../Core/Src/mocap_teleop_lib.c:10:6:transmitData	32	static
+../Core/Src/mocap_teleop_lib.c:24:9:readForseSensor	16	static
+../Core/Src/mocap_teleop_lib.c:46:6:clearBufferAndCounter	8	static
+../Core/Src/mocap_teleop_lib.c:55:6:set_new_force	8	static
+../Core/Src/mocap_teleop_lib.c:70:6:stop_motor	8	static
+../Core/Src/mocap_teleop_lib.c:75:6:calibration	8	static
