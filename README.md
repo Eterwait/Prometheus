@@ -3,9 +3,10 @@ This repository contains source materials for Prometheus, an open-source teleope
 
 ### Repository content
 
-- **teleoperation** - main code.
+- **PCB_prometheus_main_board** - Prometheus main board schematic, bill of materials and Gerber files
 - **force_sensor_linearizer_rs485** - force sensor PCB code
-- **mocap_teleop_pcb** - joystick PCB code
+- **mocap_teleop_pcb** - Prometheus main board code
+- **teleoperation** - main code
 
 ### Installation
 
